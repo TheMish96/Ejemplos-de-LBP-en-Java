@@ -1,0 +1,6 @@
+C:\Users\LENOVO\Documents\Canny Edge Detection C#\Iris Recognition\obj\Debug\CannyEdgeDetection.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\Canny Edge Detection C#\Iris Recognition\obj\Debug\CannyEdgeDetection.exe
+C:\Users\LENOVO\Documents\Canny Edge Detection C#\Iris Recognition\obj\Debug\CannyEdgeDetection.pdb
+E:\sistemas inteligentes 2\Bordes B\Iris Recognition\obj\Debug\CannyEdgeDetection.csprojAssemblyReference.cache
+E:\sistemas inteligentes 2\Bordes B\Iris Recognition\obj\Debug\CannyEdgeDetection.exe
+E:\sistemas inteligentes 2\Bordes B\Iris Recognition\obj\Debug\CannyEdgeDetection.pdb
